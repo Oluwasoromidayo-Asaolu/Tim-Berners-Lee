@@ -120,6 +120,9 @@ body p{
       .footer-ul{
         font-size: smaller;
       }
+      main{
+        padding: 20px 30px;
+      }
     }
     @media (min-width: 768px) and (max-width: 1024px) {
       .column h1{
